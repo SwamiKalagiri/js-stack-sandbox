@@ -1,0 +1,13 @@
+{
+  "name": "js-stack-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Swami Kalagiri <swami.kalagiri@gmail.com>",
+  "license": "ISC"
+}
